@@ -5,7 +5,11 @@
 }
 
 body {
-    background: url(/images/sami-takarautio-VSZkdXfqfCo-unsplash.jpg) no-repeat;
+    background: url('/images/marek-piwnicki-vzGQlsZ-ZhY-unsplash.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
     color: #fff;
 }
 
